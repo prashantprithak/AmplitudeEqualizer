@@ -1,7 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../AmplitudeEqualizer.srcs/sources_1/new/AmplitudeEqualizer.vhd" \
-"../../../../AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd" \
-
-# Do not sort compile order
-nosort
