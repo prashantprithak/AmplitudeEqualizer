@@ -1,0 +1,193 @@
+Time resolution is 1 ps
+Note: AMPLITUDE EQUALIZER TESTBENCH RESULTS
+Time: 0 ps  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Simulation Test Run
+Time: 0 ps  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Reference value (R): 1023
+Time: 0 ps  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: -----------------------------------------------------
+Time: 0 ps  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Starting Test Case 1: Normal Triangle Wave               
+Time: 0 ps  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: -----------------------------------------------------
+Time: 0 ps  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 0 (index 0): Input = 0, Initial Rho = 1
+Time: 80 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 1 (index 1): Input = 64, Output = 0, Rho = 1
+Time: 90 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 2 (index 2): Input = 127, Output = 0, Rho = 1
+Time: 100 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 3 (index 3): Input = 96, Output = 0, Rho = 1
+Time: 110 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 4 (index 4): Input = 0, Output = 0, Rho = 1, Peak Value = 127, Actual Peak = 127, Adjacent Samples = [64, 127, 96] at Sample 2 --> POSITIVE PEAK DETECTED!
+Time: 120 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 5 (index 5): Input = -96, Output = 0, Rho = 127
+Time: 130 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 6 (index 6): Input = -127, Output = 0, Rho = 127
+Time: 140 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 7 (index 7): Input = -60, Output = 0, Rho = 127
+Time: 150 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 8 (index 8): Input = 25, Output = -3, Rho = 127, Peak Value = -127, Actual Peak = -127, Adjacent Samples = [-96, -127, -60] at Sample 6 --> NEGATIVE PEAK DETECTED!
+Time: 160 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 9 (index 9): Input = 63, Output = -4, Rho = -128
+Time: 170 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 10 (index 10): Input = 125, Output = -2, Rho = -128
+Time: 180 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 11 (index 11): Input = 95, Output = 0, Rho = -128
+Time: 190 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 12 (index 12): Input = -2, Output = -2, Rho = -128, Peak Value = 125, Actual Peak = 125, Adjacent Samples = [63, 125, 95] at Sample 10 --> POSITIVE PEAK DETECTED!
+Time: 200 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 13 (index 13): Input = -95, Output = -4, Rho = -128
+Time: 210 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 14 (index 14): Input = -126, Output = -3, Rho = -128
+Time: 220 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 15 (index 15): Input = -40, Output = 0, Rho = -128
+Time: 230 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 16 (index 16): Input = 0, Output = 2, Rho = -128, Peak Value = -126, Actual Peak = -126, Adjacent Samples = [-95, -126, -40] at Sample 14 --> NEGATIVE PEAK DETECTED!
+Time: 240 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 17 (index 17): Input = 65, Output = 3, Rho = -128
+Time: 250 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 18 (index 18): Input = 127, Output = 1, Rho = -128
+Time: 260 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 19 (index 19): Input = 97, Output = 0, Rho = -128
+Time: 270 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 20 (index 20): Input = 2, Output = -3, Rho = -128, Peak Value = 127, Actual Peak = 127, Adjacent Samples = [65, 127, 97] at Sample 18 --> POSITIVE PEAK DETECTED!
+Time: 280 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 21 (index 21): Input = -98, Output = -4, Rho = -128
+Time: 290 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 22 (index 22): Input = -128, Output = -4, Rho = -128
+Time: 300 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 23 (index 23): Input = 0, Output = -1, Rho = -128
+Time: 310 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 24 (index 24): Input = 45, Output = 3, Rho = -128, Peak Value = -128, Actual Peak = -128, Adjacent Samples = [-98, -128, 0] at Sample 22 --> NEGATIVE PEAK DETECTED!
+Time: 320 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 25 (index 25): Input = 66, Output = 4, Rho = -128
+Time: 330 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 26 (index 26): Input = 126, Output = 0, Rho = -128
+Time: 340 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 27 (index 27): Input = 94, Output = -2, Rho = -128
+Time: 350 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 28 (index 28): Input = -1, Output = -3, Rho = -128, Peak Value = 126, Actual Peak = 126, Adjacent Samples = [66, 126, 94] at Sample 26 --> POSITIVE PEAK DETECTED!
+Time: 360 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 29 (index 29): Input = -97, Output = -4, Rho = -128
+Time: 370 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 30 (index 30): Input = -125, Output = -3, Rho = -128
+Time: 380 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 31 (index 31): Input = -56, Output = 0, Rho = -128
+Time: 390 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 32 (index 32): Input = 0, Output = 3, Rho = -128, Peak Value = -125, Actual Peak = -125, Adjacent Samples = [-97, -125, -56] at Sample 30 --> NEGATIVE PEAK DETECTED!
+Time: 400 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 33 (index 33): Input = 62, Output = 3, Rho = -128
+Time: 410 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 34 (index 34): Input = 127, Output = 1, Rho = -128
+Time: 420 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 35 (index 35): Input = 98, Output = 0, Rho = -128
+Time: 430 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 36 (index 36): Input = 0, Output = -2, Rho = -128, Peak Value = 127, Actual Peak = 127, Adjacent Samples = [62, 127, 98] at Sample 34 --> POSITIVE PEAK DETECTED!
+Time: 440 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 37 (index 37): Input = -94, Output = -4, Rho = -128
+Time: 450 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 38 (index 38): Input = -127, Output = -4, Rho = -128
+Time: 460 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 39 (index 39): Input = -2, Output = 0, Rho = -128
+Time: 470 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: -----------------------------------------------------
+Time: 520 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Test Case 1 Summary:
+Time: 520 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Final rho value: -128
+Time: 520 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Peaks detected: 10
+Time: 520 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Output range: [-4, 4]
+Time: 520 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Rho convergence cycles: 3
+Time: 520 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Rho overflows: 39
+Time: 520 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: -----------------------------------------------------
+Time: 520 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: -----------------------------------------------------
+Time: 540 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Starting Test Case 2: Small Amplitude Wave (amplification)
+Time: 540 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: -----------------------------------------------------
+Time: 540 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 0 (index 0): Input = 0, Initial Rho = 1
+Time: 620 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 1 (index 1): Input = 16, Output = -1, Rho = 1
+Time: 630 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 2 (index 2): Input = 31, Output = -1, Rho = 1
+Time: 640 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 3 (index 3): Input = 24, Output = 0, Rho = 1
+Time: 650 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 4 (index 4): Input = 0, Output = 0, Rho = 1, Peak Value = 31, Actual Peak = 31, Adjacent Samples = [16, 31, 24] at Sample 2 --> POSITIVE PEAK DETECTED!
+Time: 660 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 5 (index 5): Input = -24, Output = 0, Rho = 127
+Time: 670 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 6 (index 6): Input = -31, Output = 0, Rho = 127
+Time: 680 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 7 (index 7): Input = -15, Output = 0, Rho = 127
+Time: 690 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 8 (index 8): Input = 6, Output = -1, Rho = 127, Peak Value = -31, Actual Peak = -31, Adjacent Samples = [-24, -31, -15] at Sample 6 --> NEGATIVE PEAK DETECTED!
+Time: 700 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 9 (index 9): Input = 15, Output = -1, Rho = -128
+Time: 710 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 10 (index 10): Input = 31, Output = -1, Rho = -128
+Time: 720 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 11 (index 11): Input = 23, Output = 0, Rho = -128
+Time: 730 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 12 (index 12): Input = 0, Output = -1, Rho = -128, Peak Value = 31, Actual Peak = 31, Adjacent Samples = [15, 31, 23] at Sample 10 --> POSITIVE PEAK DETECTED!
+Time: 740 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 13 (index 13): Input = -23, Output = -1, Rho = -128
+Time: 750 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 14 (index 14): Input = -31, Output = -1, Rho = -128
+Time: 760 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 15 (index 15): Input = -10, Output = 0, Rho = -128
+Time: 770 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 16 (index 16): Input = 0, Output = 0, Rho = -128, Peak Value = -31, Actual Peak = -31, Adjacent Samples = [-23, -31, -10] at Sample 14 --> NEGATIVE PEAK DETECTED!
+Time: 780 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 17 (index 17): Input = 16, Output = 0, Rho = -128
+Time: 790 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 18 (index 18): Input = 31, Output = 0, Rho = -128
+Time: 800 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 19 (index 19): Input = 24, Output = 0, Rho = -128
+Time: 810 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 20 (index 20): Input = 0, Output = -1, Rho = -128, Peak Value = 31, Actual Peak = 31, Adjacent Samples = [16, 31, 24] at Sample 18 --> POSITIVE PEAK DETECTED!
+Time: 820 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 21 (index 21): Input = -24, Output = -1, Rho = -128
+Time: 830 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 22 (index 22): Input = -32, Output = -1, Rho = -128
+Time: 840 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 23 (index 23): Input = 0, Output = 0, Rho = -128
+Time: 850 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 24 (index 24): Input = 11, Output = 0, Rho = -128, Peak Value = -32, Actual Peak = -32, Adjacent Samples = [-24, -32, 0] at Sample 22 --> NEGATIVE PEAK DETECTED!
+Time: 860 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 25 (index 25): Input = 16, Output = 1, Rho = -128
+Time: 870 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 26 (index 26): Input = 31, Output = 0, Rho = -128
+Time: 880 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 27 (index 27): Input = 23, Output = -1, Rho = -128
+Time: 890 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 28 (index 28): Input = 0, Output = -1, Rho = -128, Peak Value = 31, Actual Peak = 31, Adjacent Samples = [16, 31, 23] at Sample 26 --> POSITIVE PEAK DETECTED!
+Time: 900 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 29 (index 29): Input = -24, Output = -1, Rho = -128
+Time: 910 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 30 (index 30): Input = -31, Output = -1, Rho = -128
+Time: 920 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 31 (index 31): Input = -14, Output = 0, Rho = -128
+Time: 930 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 32 (index 32): Input = 0, Output = 0, Rho = -128, Peak Value = -31, Actual Peak = -31, Adjacent Samples = [-24, -31, -14] at Sample 30 --> NEGATIVE PEAK DETECTED!
+Time: 940 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 33 (index 33): Input = 15, Output = 0, Rho = -128
+Time: 950 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 34 (index 34): Input = 31, Output = 0, Rho = -128
+Time: 960 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 35 (index 35): Input = 24, Output = 0, Rho = -128
+Time: 970 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 36 (index 36): Input = 0, Output = -1, Rho = -128, Peak Value = 31, Actual Peak = 31, Adjacent Samples = [15, 31, 24] at Sample 34 --> POSITIVE PEAK DETECTED!
+Time: 980 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 37 (index 37): Input = -23, Output = -1, Rho = -128
+Time: 990 ns  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
+Note: Sample 38 (index 38): Input = -31, Output = -1, Rho = -128
+Time: 1 us  Iteration: 0  Process: /AmplitudeEqualizer_TB/stim_proc  File: D:/ElectronicsProject/AmplitudeEqualizer/AmplitudeEqualizer.srcs/sim_1/new/AmplitudeEqualizer_TB.vhd
